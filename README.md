@@ -5,3 +5,9 @@ A simple code to Whiteboard app that implement a minimalist concept using only m
 :tada: begin commit
 :bug: final code and some bug fixing
 :fire: some unnecessary codes removed
+
+Demo:
+
+![Alt Text](https://github.com/povman/textum/blob/master/demonstration.gif)
+
+
